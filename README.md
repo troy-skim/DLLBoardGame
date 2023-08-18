@@ -1,7 +1,7 @@
 # DLLBoardGame
 
-A Board Game made with Doubly Linked List. DoublyLinkedList.java was copied from the book Data Structures and Algorithms in Java, Sixth Edition, by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser.   
-  
+A Board Game made with Doubly Linked List. DoublyLinkedList.java was copied from the book Data Structures and Algorithms in Java, Sixth Edition, by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser.  <br />
+Created as a project at NYU. <br />
 Finished on July 12, 2023. 
 
 ## Folder Structure
