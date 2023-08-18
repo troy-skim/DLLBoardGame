@@ -4,13 +4,26 @@ A Board Game made with Doubly Linked List. DoublyLinkedList.java was copied from
 Created as a project at NYU. <br />
 Finished on July 12, 2023. 
 
-## Folder Structure
+## Folder and File Structure
 
-App.java                -> driver program  <br />
-Block.java              -> represents each blocks (squares)  <br />
-Player.java             -> represents each players  <br />
-Board.java              -> represents the board  <br />
-DoublyLinkedList.java   -> copied from the textbook, one custom method added at the bottom  <br />
+    .
+    ├── bin                          # Compiled/executable files
+    │   ├── App.class        
+    │   ├── Block.class    
+    │   ├── Player.class            
+    │   ├── Board.class              
+    │   └── DoublyLinkedList.class   
+    ├── src                          # Source files
+    │   ├── App.java                 # Driver program
+    │   ├── Block.java               # Represents each blocks (squares)
+    │   ├── Player.java              # Represents each blocks (squares)
+    │   ├── Board.java               # Represents each blocks (squares)
+    │   └── DoublyLinkedList.java    # Copied from the textbook, one custom method added at the bottom
+    ├── lib                          # External libraries and dependencies (not included)
+    │   └── commons-lang3-3.13.0.jar # Copied from the textbook, one custom method added at the bottom
+    ├── LICENSE.txt                  # Apache Commons Licence
+    ├── NOTICE.txt                   # Apache Commons Notice
+    └── README.md
   
 apache commons lang3 dependency should be in the lib folder.  
 
